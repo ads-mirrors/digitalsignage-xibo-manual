@@ -11,14 +11,14 @@ persona: "administrator"
 # CMS Administrator Settings
 
 {nonwhite}
-Once your CMS is installed, there is some additional set up required to enable all functionality. Please see the following guidance: [CMS Post Installation Set up](/docs/setup/xibo-cms-post-installation-setup-guide.html)
+Once your CMS is installed, there is some additional set up required to enable all functionality. Please see the following guidance: [CMS Post Installation Set up](https://account.xibosignage.com/docs/setup/xibo-cms-post-installation-setup-guide.html)
 {/nonwhite}
 
 Like any complex application, the [[PRODUCTNAME]] CMS comes with a number of configurable options.  These are located from the **Settings** page under the **Administration** section of the main CMS menu.
 
 {nonwhite}
 {cloud}
-**Xibo Cloud** hosted customers will have some of these fields pre-populated as part of the service. Some can be changed with others locked to disable editing. For further information please refer to this page: [Xibo Cloud CMS Defaults and Restrictions](/docs/setup/xibo-in-the-cloud.html#content-xibo-cloud-cms-defaults-and-restrictions).
+**Xibo Cloud** hosted customers will have some of these fields pre-populated as part of the service. Some can be changed with others locked to disable editing. For further information please refer to this page: [Xibo Cloud CMS Defaults and Restrictions](https://account.xibosignage.com/docs/setup/xibo-in-the-cloud.html#content-xibo-cloud-cms-defaults-and-restrictions).
 {/cloud}
 {/nonwhite}
 
