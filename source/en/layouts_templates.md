@@ -33,16 +33,11 @@ Selecting a Template will replace the current Layout design to the chosen Templa
 
 ## Create Template
 
-Templates are created by selecting **Templates** under the **Design** section of the main CMS menu.
+Templates are created by selecting **Templates** under the **Design** section of the main CMS menu
 
-- Select the **Add Template** button and complete the form fields.
-
-
-![Add Template Form](img/v4_layouts_add_template_form.png)
-
-- Give your Template a **Name** for easy identification in the CMS.
-
-- Select the Resolution.
+1. Select the **Add Template** button and complete the form fields
+2. Give your Template a **Name** for easy identification in the CMS
+3. Select the **Resolution**
 
 On **Saving**, the [Layout Editor](layouts_editor.html) will automatically open with one full size **Zone**.
 
@@ -142,13 +137,13 @@ Take your time with any edits you need to make as using **Checkout** ensures tha
 
 Publish will ensure that the Template is shown for selection from the Toolbox.
 
-#### Discard 
-
-Discard all changes made to a draft and revert back to the previous Published version.
-
 #### Share
 
 Set Share options for User/User Group access to individual Templates.
+
+#### Discard 
+
+Discard all changes made to a draft and revert back to the previous Published version.
 
 #### Export 
 
@@ -157,7 +152,7 @@ Export the Template including all associated Widgets/Media/DataSet structures to
 {tip}
 When exporting a Template, all assigned **Layout**, **Playlist** and **Media Tags** will be exported. Select the **Import Tags** option to add these Tags on Layout Import.
 
-Use the **With Selected** option at the bottom of the Templates grid to perform bulk actions for multiple Templates! 
+Select multiple Templates and use the short cut actions at the top of the grid to perform bulk actions for multiple Templates! 
 {/tip}
 
 

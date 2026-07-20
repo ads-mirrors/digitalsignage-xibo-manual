@@ -11,9 +11,13 @@ persona: "content manager"
 
 Display daily weather forecast data anywhere on a Layout using **Elements** or select a **Static Template** to display results in Layouts/Playlists.
 
-{feat}Weather|v4{/feat}
-
 Weather data is provided by [OpenWeather](https://openweathermap.org/) which is provided under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) and [ODbL](https://opendatacommons.org/licenses/odbl/) which provides current worldwide daily weather forecasts which feed into configured Elements and Static Templates.
+
+{nonwhite}
+{cloud}
+The Weather Module is configured for **Xibo Cloud** hosted customers with an API key provided as part of the service.
+{/cloud}
+{/nonwhite}
 
 {tip}
 
@@ -38,35 +42,7 @@ After transferring to a new key, please ensure you clear the cache for Weather u
 {/version}
 {/noncloud}
 
-{nonwhite}
-{cloud}
-The Weather Module is configured for **Xibo Cloud** hosted customers with an API key provided as part of the service.
-{/cloud}
-{/nonwhite}
-
 The Open Weather Map Terms of Service https://openweathermap.org/terms should be read and understood before using this Widget. 
-
-## Weather Elements
-
-Elements are available for selection when adding the Weather Widget to a [Layout](layouts_editor.html) to give Users more control over what components of the Weather Widget to use and where they can be placed.
-
-![Weather Elements](img/v4_media_module_weather_elements.png)
-
-Each Element has a set of configuration options in the Properties Panel.  Enter the geographical location and units to return results from the **Configure** tab.
-
-Control how items should be cycled by specifying a Data Slot to use for each of the added Elements. Data Elements can be further complimented by adding Global Elements to add shapes and text which can all be put into an Element Group for easier configuration and positioning.
-
-{tip}
-All Layouts that use the Weather Widget need to include attribution, available by using the Attribution Element.  Static Templates contain this tag by default.
-{/tip}
-
-## Weather Static Templates
-
-Static Templates define how returned results should be laid out and styled and are a simple way to show your data using pre-styled templates.
-
-![Weather Templates](img/v4_media_modules_weather_templates.png)
-
-Templates can be configured to make changes to the design appearance using a range of options in the Properties Panel. Enter geographical locations and units to return results from the **Configure** tab for each Template added to the Layout/Playlist.
 
 ## Overview
 
@@ -75,5 +51,5 @@ Templates can be configured to make changes to the design appearance using a ran
 - Automatically select weather forecasts based on Display Location.
 - Specify which Language to use.
 - Opt to show only daytime weather conditions.
-- Replace Background Images with images from the [Library](media_library.html)
+- Replace Background Images with images from the Library.
 - Data for this media is cached by the Players for off-line playback.

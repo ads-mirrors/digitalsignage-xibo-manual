@@ -10,25 +10,7 @@ persona: "content manager"
 
 Display dynamic feed content anywhere on a Layout using Elements or include Static Templates with pre-styled designs in Layouts/Playlists.
 
-{feat}Ticker|v4{/feat}
-
 The Ticker Widget primarily consists of a data source location which feeds into configured Elements and Static Templates.
-
-## Ticker Elements
-
-Elements are available for selection when adding an RSS Ticker Widget to a [Layout](layouts_editor.html) to give Users more control over what components of the Ticker Widget to use and where they can be placed. 
-
-![Ticker Elements](img/v4_media_module_ticker_elements.png)
-
-Each Element has a set of configuration options in the Properties Panel. A URL must be provided to be used as the data source from the **Configure** tab for each Element used on the Layout. Control how items should be cycled by specifying a Data Slot to use for each of the added Elements. Data Elements can be further complimented by adding Global Elements to add shapes and text which can all be put into an Element Group for easier configuration and positioning.
-
-## DataSet Static Templates
-
-Static Templates define how returned items should be laid out and styled and are a simple way to show items using pre-styled templates.
-
-![Ticker Templates](img/v4_media_module_ticker_templates.png)
-
-Templates can be configured to affect the behaviour of returned results as well as make changes to the design appearance using a range of options in the Properties Panel. A URL must be provided to be used as the data source from the **Configure** tab for each Template added to the Layout/Playlist.
 
 ## Overview
 
@@ -63,9 +45,9 @@ Use this option with caution as this can create long-running media items. Ensure
 
   
 
-{tip}
-Create your own [RSS Feed](media_datasets.html#content-view-rss) to use with this Widget using [DataSets](media_datasets.html)!
-{/tip}
+## Further Reading
+
+[Create your own RSS Feed](media_datasets.html#content-view-rss)
 
 
 

@@ -14,7 +14,7 @@ persona: "administrator"
 Once your CMS is installed, there is some additional set up required to enable all functionality. Please see the following guidance: [CMS Post Installation Set up](https://account.xibosignage.com/docs/setup/xibo-cms-post-installation-setup-guide.html)
 {/nonwhite}
 
-Like any complex application, the [[PRODUCTNAME]] CMS comes with a number of configurable options.  These are located from the **Settings** page under the **Administration** section of the main CMS menu.
+[[PRODUCTNAME]] CMS comes with a number of configurable options.  These are located from the **Settings** page under the **Administration** section of the main CMS menu.
 
 {nonwhite}
 {cloud}
@@ -22,13 +22,13 @@ Like any complex application, the [[PRODUCTNAME]] CMS comes with a number of con
 {/cloud}
 {/nonwhite}
 
-Settings are split into related category tabs:
+Settings are split into related categories:
 
-![CMS Settings](img/v4_tour_cms_settings_admin.png)
+![CMS Settings](img/v4.5_configuration_cms_settings_admin.png)
 
 ## Configuration
 
-From this tab view the **CMS Secret Key** which is used to authenticate Players with the CMS and apply a **Theme** to pages (if applicable) as well as setting the default positioning for the **Navigation Menu**.
+From here, view the **CMS Secret Key** which is used to authenticate Players with the CMS and apply a **Theme** to pages (if applicable) as well as setting the default positioning for the **Navigation Menu**.
 
 Use this tab to apply defaults to all [Media](media_library.html) files and set default [Transitions](configure_transitions.html).
 
@@ -124,8 +124,6 @@ This might be of particular interest if the CMS is installed on a web server tha
 {/tip}
 
 Administrators can initiate a system-wide Library tidy operation by clicking the **Tidy Library** button in the right hand corner of the Settings page:
-
-![Settings Tidy Library](img/v4_tour_cms_settings_tidy_library.png)
 
 As this functionality is system-wide and therefore operates on **ALL** User files, confirmation is required to remove unused and old revisions.
 
@@ -275,8 +273,6 @@ We recommend always choosing a font where available to avoid Players showing dif
 Manage from the **Fonts** page under the **Administration** section of the main CMS menu.
 
 - Use the row menu to view a Fonts **Details** and see an example of the font style:
-
-![Font Details](img/v4_tour_settings_fonts.png)
 
 Additional fonts can be added by clicking the **Upload Font** button and using the file uploader tool.
 

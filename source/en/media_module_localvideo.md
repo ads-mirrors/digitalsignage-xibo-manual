@@ -10,8 +10,6 @@ persona: "content manager"
 
 Add a video from a local file path or URL to Playlists and Layouts. This type of video only exists on the Player and is not uploaded to the CMS.
 
-{feat}Local Video|v4{/feat}
-
 ## Overview
 
 - Show manually transferred videos.

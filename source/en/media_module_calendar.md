@@ -12,8 +12,6 @@ persona: "content manager, webhook triggers"
 
 Display Calendar events pulled in from an iCal feed anywhere on a Layout using **Elements** or select a **Static Template** to display results in Layouts/Playlists.
 
-{feat}Calendar View|v4{/feat}
-
 Calendar data is provided by an iCal feed which will feed into configured Elements and Static Templates.
 
 {tip}
@@ -21,30 +19,6 @@ Ensure that the ICS feed URL is available to the CMS. If the feed loads in a bro
 
 For further information on how to view your Google Calendar in applications, use the following link selecting the **Get your calendar (view only)** option: https://support.google.com/calendar/answer/37648?hl=en
 {/tip}
-
-## Calendar Elements
-
-Elements are available for selection when adding the Calendar Widget to a [Layout](layouts_editor.html) to give Users more control over what components of the Calendar Widget to use and where they can be placed.
-
-![Calendar Elements](img/v4_media_modules_calendar_elements.png)
-
-Each Element has a set of configuration options in the Properties Panel.  Enter the iCal feed to use to return results from the **Configure** tab.
-
-Control how items should be cycled by specifying a [Data Slot](https://test.xibo.org.uk/manual/en/layouts_editor.html#content-data-slots) to use for each of the added Elements. Data Elements can be further complimented by adding Global Elements to add shapes and text which can all be put into an Element Group for easier configuration and positioning.
-
-Take advantage of Stencils to add a predesigned group of Elements to your Layout. 
-
-{tip}
-All Elements in the Stencil are treated as 'one' when configured and can be easily duplicated from a right click!
-{/tip}
-
-## Calendar Static Templates
-
-Static Templates define how returned results should be laid out and styled and are a simple way to show your data using pre-styled templates.
-
-![Calendar Elements](img/v4_media_modules_calendar_templates.png)
-
-Templates can be configured to make changes to the design appearance using a range of options in the Properties Panel. Enter an iCal to return results from the **Configure** tab for each Template added to the Layout/Playlist.
 
 ## Overview
 

@@ -19,18 +19,16 @@ Image files are first added to the Library by upload or by URL. For this example
 {nonwhite} 
 ## How-to Video Showing an Image
 
-{video}zVjruJtnbys|how_to_show_an_image.png{/video}
+{video}YZTiNOGY8JQ|how_to_show_an_image_5.png{/video}
 {/nonwhite}
 
 ### Add Media
 
-- Click on **Media** under the **Library** section of the main CMS menu.
-- Click the **Add Media** button.
-- Select **Add files** and select the Image file to upload.
-- Provide a new **Name** or leave this field blank to keep the original file name.
-- Click **Start upload**.
-
-- Once uploaded click **Done**.
+1. Click on **Media** under the **Library** section of the main CMS menu
+2. Click the **Add Media** button
+3. Drag and drop, provide a URL or click Add files to select the image file to upload
+4. Provide a new **Name** or leave this field blank to keep the original file name
+5. Click **Done**
 
 {version}
 Caution should be taken when uploading very large images. Users should check the **Resolution** of the Image and keep it within the intended screen size for best results.
@@ -38,15 +36,13 @@ Caution should be taken when uploading very large images. Users should check the
 
 ### Select Media
 
-- From the **Media** grid use the filters to make it easier to find the uploaded **Image** file if required.
-- Use the row menu and select **Schedule**:
+- From the **Media** grid use the filters to make it easier to find the uploaded **Image** file if required
+- Use the row menu and select **Schedule** 
 
-![Media Row Menu Schedule](img/v4_showing_images_videos_row_menu_schedule.png) 
-
-- Select which **Displays** to show the Image on. 
-- If you want to use the default **Always** schedule, and happy with the default settings and have no further advanced scheduling options to set, you can click **Finish** to complete the schedule.
-- If you want to select alternative created **Dayparts** or **Custom** dates, select **Next**.
-- If you don't need to apply any further scheduling options and are happy with the defaults set for **Duration in Loop**, **Resolution** etc, click to **Finish**.
+- Select which **Displays** to show the Image on
+- If you want to use the default **Always** schedule, and happy with the default settings and have no further advanced scheduling options to set, you can click **Finish** to complete the schedule
+- If you want to select alternative created **Dayparts** or **Custom** dates, select **Next**
+- If you don't need to apply any further scheduling options and are happy with the defaults set for **Duration in Loop**, **Resolution** etc, click to **Finish**
 
 {tip}
 **Duration in loop** determines how long this Image should be shown each time it appears in a **Schedule Loop**. 
@@ -61,10 +57,6 @@ The CMS will now update a Schedule change and the Image will be shown on Display
 [Use the Layout Editor to create your own content](layouts_editor.html) 
 
 ## FAQs
-
-***I don't see the wizard when scheduling an Image?***
-
-A wizard was introduced in v4.4 to simplify the scheduling process. Use the link to view the earlier flow: [Showing an Image](getting_started_showing_an_image_v4.html)
 
 ***What are Schedule Loops?*** 
 

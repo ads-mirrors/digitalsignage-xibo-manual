@@ -11,18 +11,19 @@ persona: "schedule manager, display manager, administrator"
 
 Sync Groups contain the Displays that will show synchronised content. Content can be synchronised to play across 2 or more Displays in a mirrored or video wall configuration when scheduling a [Synchronised Event](scheduling_events.html#content-synchronised-events).
 
-{feat}Sync Groups|v4{/feat}
-
 {tip}
 Sync Playlists on different Layouts using the **Content Synchronisation Key**.
 {/tip}
 
-[Displays](displays.html) first need to be assigned to a **Sync Group**:
+[Displays](displays.html) first need to be assigned to a **Sync Group**.
 
-- Click on **Sync Groups** under the **Displays** section of the main CMS menu.
-- Select the **Add Sync Group** button.
+{version}
+**NOTE:** A Display can only belong to one Sync Group at the same time.
+{/version}
 
-![Add Sync Group](img/v4_displays_add_sync_groups.png)
+1. Click on **Sync Groups** under the **Displays** section of the main CMS menu
+2. Select the **Add Sync Group** button
+3. use the **Manage Membership** form to select which Displays to include in this Group
 
 Sync Groups can be saved to Folders to easily control User/User Group levels of interaction for Displays as well as provide an additional way to organise.
 
@@ -32,13 +33,7 @@ All Displays in a Sync Group need to communicate using their LAN IP address over
 We recommend using a wired network and high-powered similar devices for the best Synchronisation.
 {/tip}
 
-- On saving use the **Manage Membership** form to select which Displays to include in this Group.
-
-{version}
-**NOTE:** A Display can only belong to one Sync Group at the same time.
-{/version}
-
-- On saving use the Edit form use the drop down to select which Display should be the **Lead Display** for the Sync Group.
+- Once saved, Edit form use the drop down to select which Display should be the **Lead Display** for the Sync Group.
 
 - Click to **Save**
 

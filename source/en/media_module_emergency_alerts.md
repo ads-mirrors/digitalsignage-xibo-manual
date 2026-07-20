@@ -22,10 +22,6 @@ Help to ensure the safety of staff, pupils and the public by showing alert and e
 - Show multiple emergency alert messages with data cycling from CAP feeds.
 - Set **Criteria** when **Scheduling** to determine if the alert should be included in the Schedule Loop for supported Players.
 
-## Player Feature Support
-
-{feat}Emergency Alert|v4{/feat}
-
 ## Further Reading
 
 [Connectors Management](media_modules_connectors.html)

@@ -35,17 +35,11 @@ Examples of where DataSets could be utilised:
 
 DataSets are created and managed independently to Layouts and Playlists and therefore do not require user access to Layouts the Layout Editor or Playlists to add or manage the data held within a DataSet.
 
-![DataSet Flow](img/v4_media_dataset_flow.png)
-
 ## Creating a DataSet
 
-DataSets are created and managed by selecting  **DataSets** under the **Library** section of the main CMS menu:
+DataSets are created and managed by selecting  **DataSets** under the **Library** section of the main CMS menu.
 
-![DataSet Grid](img/v4_media_dataset_grid.png)
-
-- Select the **Add DataSet** button and complete the form fields to create a new record:
-
-![DataSet Add](img/v4_media_dataset_add.png)
+- Select the **Add DataSet** button and complete the form fields to create a new record
 
 - Give your DataSet a **Name** for easy identification in the CMS. Provide an optional internal **Description** and enter a **Code** if referencing this DataSet via the API.
 
@@ -59,7 +53,7 @@ Remote DataSets are a special type of DataSet which will periodically sync from 
 
 On selecting Remote, additional tabbed fields are made available so that the Remote DataSet record can be fully completed:
 
-![Remote DataSet Options](img/v4_media_dataset_remote.png)
+![Remote DataSet Options](img/v4.5_media_dataset_remote.png)
 
 - #### Remote
 
@@ -142,9 +136,7 @@ If no **Row Limit** is set here the default will apply which is 10,000 rows per 
 
 Columns define the structure of your data:
 
-- Use the row menu for a DataSet record and select **View Columns**:
-
-![DataSets Add columns](img/v4_media_datasets_add_columns.png)
+- Use the row menu for a DataSet record and select **View Columns**
 
 {tip}
 By default, all new DataSets will have a **Col1** added. This should be edited or removed using the row menu for Col1!
@@ -156,7 +148,7 @@ By default, all new DataSets will have a **Col1** added. This should be edited o
 
 - Use the row menu for Col1 and select **Edit**.
 
-![DataSet Columns Form](img/v4_media_columns_form.png)
+![DataSet Columns Form](img/v4.5_media_columns_form.png)
 
 - Include a **Heading** to identify this Column.
 - Use the drop down to select a **Type** of Column to use.
@@ -223,33 +215,23 @@ Once Columns have been defined, data needs to be added. This can be achieved a n
 
 ### Manually 
 
-Data is added using the **View Data** button on the Columns page.
+Data is added using the **View Data** button located next to the Add Column button.
 
 {tip}
 Data can be viewed/added and edited by using the row menu for a DataSet record from the DataSets page!
 {/tip}
-
-The data table will show each of the Columns added to the DataSet as they have been configured.
-
-![Dataset Row](img/v4_media_dataset_row.png)
 
 - Add a new row of data by clicking on the **Add Row** button and complete for each non-formula Column type.
 - Click **Next** to continue adding data to add more rows.
 - When all data has been completed, click **Save**
 
 {tip}
-Click in any row to Edit Data. Click on the cross at the end of a selected row to Delete.
-
-Users can toggle to a **Multi Select Mode** using the button at the top of the grid. In this mode, Users can select multiple rows and click on **Delete Rows** to remove in bulk.
-
-Once complete click on the **Edit Mode** button to come out of multi-select mode.
+Select multiple rows and use the Delete Selected action to delete in bulk.
 {/tip}
 
 ### Importing a CSV 
 
 The CMS has a DataSet CSV importer that can be used to extract data from a **CSV file** and put it into a DataSet. The **Import CSV** function can be accessed through the row menu of any DataSet record (with the exception of DataSets configured for Remote data sources).
-
-![Dataset Import CSV](img/v4_media_dataset_importcsv_form.png)
 
 The importer has options to overwrite the existing data held in the import file as well as an option to ignore the first row of the CSV when importing if your file has headings.
 
@@ -290,7 +272,7 @@ Create your own RSS feed using the data held in a DataSet.
 - Select **View RSS** from the row menu of a DataSet.
 - Click on the **Add RSS** button.
 
-![Add RSS](img/v4_media_datasets_add_rss.png)
+![Add RSS](img/v4.5_media_datasets_add_rss.png)
 
 - Complete the form fields, selecting the Columns to use.
 - On Saving a URL will be generated which can be copied and added to the [Ticker](media_module_ticker.html) Widget.
@@ -304,10 +286,6 @@ Multiple DataSets can be selected and deleted in bulk using the With Selected op
 ### Share
 
 Set Share options for User/User Group access to individual DataSets.
-
-{nonwhite}
-Take a look at our guide for an example of how to utilise DataSets for your Displays: [Using DataSets to show upcoming birthdays](https://community.xibo.org.uk/t/using-datasets-to-show-upcoming-birthdays/31617)
-{/nonwhite}
 
 #### Next...
 

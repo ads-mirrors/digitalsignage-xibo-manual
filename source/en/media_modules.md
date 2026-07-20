@@ -12,7 +12,7 @@ persona: "administrator"
 
 All content displayed in [[PRODUCTNAME]] is served by a **Media Module** managed from the **Modules** page under the **Administration** section of the main CMS menu:
 
-![Modules Grid](img/v4_media_modules_grid.png)
+![Modules Grid](img/v4.5_media_modules_grid.png)
 
 - Use the row menu and click **Configure** to control if it should be accessible for Users to use.
 

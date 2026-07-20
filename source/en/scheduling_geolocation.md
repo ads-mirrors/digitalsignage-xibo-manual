@@ -11,33 +11,30 @@ persona: "schedule manager, display manager"
 
 Scheduled Events can be configured to be location aware with locations displayed on a map view.
 
-{feat}Geo Location Scheduling|v4{/feat}
-
 ## Define Location
 
-- From the Schedule Event form, click on the **Geo Location** tab.
+1. From the Add/Edit Event form, click on the **Optional** tab and select the **Geo Location** tab
+2. Tick in the **Geo Schedule** box to enable and define the location
 
-- Tick in the **Geo Schedule** box to enable and define the location.
+- Use the buttons in the top left of the map to Zoom in and out
+- Click on the search icon to enter details for a particular area
 
 {tip}
 On opening, the map will default to what is entered for DEFAULT_LAT and DEFAULT_LONG in **CMS Settings**, under the Displays tab.
 {/tip}
 
-- Use the buttons in the top left of the map to Zoom in and out. 
-- Click on the search icon to enter details for a particular area.
-
-![Geolocation Search](img/v4_schedule_geolocation_search.png)
+![Geolocation Search](img/v4.5_schedule_geolocation_search.png)
 
 - Define an area by drawing a Polygon or Rectangle layer on the map.
 
-![Polygon Layer](img/v4_schedule_polygon.png)
+![Layer](img/v4.5_schedule_rectangle.png)
 
 ## Edit
 
-- Once an area has been defined, click on the edit icon to to drag the markers to make adjustments to the existing Layer. 
+- Once an area has been defined, click on the edit icon, at the top right of the map, to to drag the markers to make adjustments to the existing Layer. 
 - Click on the grey **Save** button located here to ensure that edits are saved.
 
-![Edit Layer](img/v4_schedule_edit_layer.png)
+![Edit Layer](img/v4.5_schedule_edit_layer.png)
 
 ## Delete
 

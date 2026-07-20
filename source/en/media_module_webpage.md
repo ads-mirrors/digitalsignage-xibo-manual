@@ -10,8 +10,6 @@ keywords: "open natively, manual position, best fit, preloading, webpage load er
 
 Include content from a webpage to be displayed on Layouts and Playlists.
 
-{feat}Webpage|v4{/feat}
-
 {version}
 **Note:** The Webpage Widget requires a valid internet connection in order to function as webpages are not cached by the Player.
 {/version}
@@ -23,7 +21,7 @@ Include content from a webpage to be displayed on Layouts and Playlists.
 - Scale and offset the target webpage to show a particular section of the webpage.
 - For content with a transparent background tick to show the Widget with a transparent background.
 - Preload content off screen.
-- Trigger a web hook to navigate to an active [action](layouts_interactive_actions.html) in the event of a webpage load error.
+- Trigger a web hook to navigate to an active action in the event of a webpage load error.
 
 {version}
 
@@ -71,3 +69,6 @@ If X-Frame-Options are not set then the website should show in any of the Player
 Use this [X-Frame-Options Header Checker Tool](https://geekflare.com/tools/x-frame-options-test) to see if the header has been set for the webpage you wish to target.
 {/version}
 
+## Further Reading
+
+[Creating Interactive Actions](layouts_interactive_actions.html)

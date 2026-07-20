@@ -8,14 +8,12 @@ persona: "content manager"
 
 # Video 
 
-Add Video files to play on your Layouts and Playlists from the [Library Search](layouts_editor_using_library_search). 
-
-{feat}Video|v4{/feat}
+Add Video files to play on your Layouts and Playlists.
 
 ## Overview
 
-- [Upload](media_library.html#content-add-media-upload) new video files directly to Playlists/Layouts from the Library Search.
-- Files uploaded directly to Playlists and Layouts are automatically saved to the [Library](media_library.html) for re-use.
+- Upload new video files directly to Playlists/Layouts from the Library Search.
+- Files uploaded directly to Playlists and Layouts are automatically saved to the Library for re-use.
 - Video files can also be uploaded in advance to the Library.
 
 {tip}
@@ -25,7 +23,7 @@ When uploading video files the scroll bar can be used to select a frame to be us
 
 {/tip}
 
-- Set [start and end times](media_playlists.html#content-widget-expiry-dates) for video files uploaded directly to a Playlist.
+- Set start and end times for video files uploaded directly to a Playlist.
 
 - Save video files to Folders on upload, to easily control access to Users.
 
@@ -55,3 +53,7 @@ Transitions are not supported for the Tizen Player when using the Video Widget.
 {/version}
 
 **As [[PRODUCTNAME]] takes no measures to control what content is put on your displays, it is your responsibility to ensure that any videos used are appropriately attributed if you do not own the rights.**
+
+## Further Reading
+
+[Using expiry dates in Playlists](media_playlists.html#content-widget-expiry-dates)

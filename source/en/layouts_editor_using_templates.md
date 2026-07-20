@@ -14,23 +14,23 @@ Use **Templates** to speed up the design process so that Users can customise con
 
 ## How-to Video Using Templates
 
-{video}xo7aLuf-VGk|how_to_using_templates.png{/video}
+{video}3TrfKRWcem4|how_to_using_templates_5.png{/video}
 {/nonwhite}
 
 ## Published Layouts as Templates
 
 Layouts created in the Layout Editor can be saved for future selection as a Template after Publishing:
 
-- From the **Layout Editor**, open the top menu.
-- From the drop down, select **Save Template**.
-- Complete all the relevant form field, opting to include all Widgets to the Template design if required.
-- **Save**.
+1. From the **Layout Editor**, open the top menu
+2. From the drop down, select **Save Template**
+3. Complete all the relevant form field, opting to include all Widgets to the Template design if required
+4. **Save**
 
 Published Layouts can also be saved as a Template from the **Layouts** grid:
 
-- Navigate to **Layouts** under the **Design** section of the main CMS menu.
-- Use the row menu for a Published Layout and select **Save Template**.
-- Complete form fields and **Save**.
+1. Navigate to **Layouts** under the **Design** section of the main CMS menu
+2. Use the row menu for a Published Layout and select **Save Template**
+3. Complete form fields and **Save**
 
 {tip}
 Layouts with the tag 'Template' will also add the Layout to your list of Template designs!
@@ -40,17 +40,17 @@ Layouts with the tag 'Template' will also add the Layout to your list of Templat
 
 Create a new design for your Layout using a Template from inside the Layout Editor:
 
-- Click to open the **Toolbox**.
+1. Click to open the **Toolbox**
 
-- Select the **Search for Layout Templates** button.
+2. Select the **Search for Layout Templates** button
 
-- Use the filters to narrow down search results.
+3. Use the filters to narrow down search results
 
-- Drag and drop the selected Template to the canvas.
+4. Drag and drop the selected Template to the canvas
 
-- Customise or add items as required.
+5. Customise or add items as required
 
-- Use the top menu to Publish once happy with the design.
+6. Use the top menu to **Publish** once happy with the design
 
 
 {nonwhite}
@@ -61,12 +61,12 @@ Select from an updated catalogue of Xibo Template designs. Each Template has bee
 
 Xibo Templates are available from inside the Layout Editor:
 
-- Click to open the Toolbox.
-- Select the Xibo Exchange button.
-- Use the filters to narrow down search results.
-- Drag and drop the selected Template to the canvas.
-- Customise / adapt as required.
-- Use the top menu to Publish once happy with the design.
+1. Click to open the Toolbox
+2. Select the **Xibo Exchange** button
+3. Use the filters to narrow down search results
+4. Drag and drop the selected Template to the canvas
+5. Customise / adapt as required
+6. Use the top menu to **Publish** once happy with the design
 
 {version}
 **NOTE:** Selecting a Template will replace the Layout design you are currently working on with the selected Template. This action is irreversible and so must be used with caution.

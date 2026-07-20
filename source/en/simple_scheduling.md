@@ -18,7 +18,7 @@ You may have a Layout created by a member of your team, in order to share an imp
 
 ## How-to Video Simple Scheduling
 
-{video}mHIzltOMUcI|how_to_simple_scheduling_4_4.png{/video}
+{video}Aw-hFcs7mV4|how_to_simple_scheduling_5.png{/video}
 {/nonwhite}
 
 ## Creating a Schedule
