@@ -14,32 +14,32 @@ keywords: "group global elements, group data elements, canvas layer, layer contr
 
 ## How-to Video Editing Tools
 
-{video}1H28dMKgmaI|how_to_using_editing_tools.png{/video}
+{video}U2-40TCbSqs|how_to_using_editing_tools_5.png{/video}
 {/nonwhite}
 
 ## Rectangle Selector
 
 Multiple items can be moved together to maintain alignment in a block by using the **Rectangle Selector** tool:
 
-- Click on the canvas background.
-- Hold and drag over the area you want to select to create an outline. 
-- Ensure that all items to be moved together are contained.
+1. Click on the canvas background
+2. Hold and drag over the area you want to select to create an outline
+3. Ensure that all items to be moved together are contained
 
-- Drag all items to position on the canvas.
-- Once in position, click outside to exit the rectangle selector.
+4. Drag all items to position on the canvas
+5. Once in position, click outside to exit the rectangle selector
 
 ## Grouping Elements
 
 Make it easier to build designs in the Layout Editor by **Grouping Elements** together:
 
-- Add Elements to the canvas. 
+- Add Elements to the canvas
 
 When grouping Data Elements, they must be of the same Data Widget type (all Weather Elements for example) and share the same Data Slot and Effect.
 
-- Position and style each Element using the **Appearance** tab.
-- Holding down the shift key, click in each **Element** to select to group together.
-- Once selected, release the shift key and right click.
-- From the menu, select **Group elements**.
+- Position and style each Element using the **Appearance** tab
+- Holding down the shift key, click in each **Element** to select to group together
+- Once selected, release the shift key and right click
+- From the menu, select **Group elements**
 
 The group can now be moved around the canvas to re-position and re-size.
 

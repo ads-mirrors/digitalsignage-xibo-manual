@@ -26,7 +26,7 @@ For example, you could have Displays located within stores over different levels
 
 **Create Display Groups** and automatically assign **Displays** with matching criteria **dynamically** or **manually** selecting Display membership.
 
-- Click on Add Display Group from the Display Groups grid.
+- Click on **Add Display Group** from the Display Groups grid.
 
 ## Dynamic Groups
 

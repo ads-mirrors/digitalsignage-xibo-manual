@@ -19,26 +19,32 @@ persona: "media manager, content manager"
 **NOTE:** [[PRODUCTNAME]] takes no measures to control what content is put on your Displays. It is your responsibility to ensure that your content is appropriate material for your desired audience. Content must be appropriately attributed if you do not own the rights to it.
 {/version}
 
-Manage all file based media by selecting **Media** under the **Library** section of the main CMS menu:
+Manage all file based media by selecting **Media** under the **Library** section of the main CMS menu.
 
-![Media Library](img/v4_media_library_grid.png)
+Use the buttons on the right hand side of the grid to switch between a **grid** or **thumbnail** view:
 
-Use the multiple filter fields across the top of the grid to restrict criteria for returned results.
+![Grid View](img/v4.5_media_grid_view.png)
+
+
+
+![Thumbnail View](img/v4.5_media_thumbnail_view.png)
+
+Use the **Filters** button to apply filters to restrict criteria for returned results.
 
 {tip}
 Use the **OR/AND** option for **Names** and to filter items that have been assigned multiple **Tags**.
 
 Images and Videos that have a set thumbnail can also be filtered by **Orientation** once set:
 
-- Use the row menu for the item and select **Edit** for an Image/Video file.  
+1. Use the row menu for the item and select **Edit** for an Image/Video file  
 
-- Scroll down to the bottom of the form and set the intended **Orientation**.
+2. Scroll down to the bottom of the form and set the intended **Orientation**
 
 {/tip}
 
 ## Adding Library Media
 
-Library media can be either uploaded directly using the **Add Media** button or by providing a URL using the **Add Media (URL)** button.
+Library media is added using the **Add Media** button to either drag and drop files, using **Select Files** to upload or by providing a **URL**.
 
 {tip}
 Add Media to the CMS Library and save to Folders to have media ready for use for the appropriate Users/User Groups!
@@ -46,64 +52,23 @@ Add Media to the CMS Library and save to Folders to have media ready for use for
 Files added to the CMS Library can be easily added to Layouts and Playlists using a [Library Search](layouts_editor_library_search)
 {/tip}
 
-### Add Media (Upload)
+### Add Media
 
 - Select the **Add Media** button
 
-  ![Upload Media](img/v4_media_library_upload.png)
+- Use the drop down to select an alternative folder location if required
 
-- Click **Add files** and select the file(s) you wish to upload. 
+- Drag and drop files or click **Select Files** or provide the remote URL for the file
 
-{tip}
-Default thresholds and limits can be specified which are then considered in the event an [Image](media_module_image.html) should be resized when uploading an image for example. Further information can be found in **CMS Settings**.
-{/tip}
+- Files will start automatically uploading
 
-- Give your file a **Name** for easier identification in the CMS.
+- Files can be re-named or leave blank to keep the original file naming
 
-{tip}
-If the Name field is left blank, the file will be named as per the original file name on upload!
-{/tip}
+- Click **Done** once added and the files will continue to upload in the background
 
-Upload files to a specified Folder location to inherit the View, Edit, Delete Share options that have been applied to the destination Folder for easy User/User Group access:
-
-- Click on the **Select Folder** button and expand to select the Folder to save in.
-
-- Click in the Folder you wish to upload the file to and click **Done**. 
-- The **Current Folder** will now show the selected file path.
-
-- Click the **Start upload** button to begin the upload of all files. If a Folder has been selected and you have added multiple files, all files will be uploaded to that location.
-
-Files can also be uploaded individually and have different Folder locations specified:
-
-- Instead of clicking on the Start upload button, click on the **blue upload** button shown at the end of the row for an added file. 
-
-- Change the Folder location using the **Select Folder** button as before and then click the blue button at the end of the row to upload just that singular file.
-
-![Single Upload](img/v4_media_library_single_upload.png)
-
-- Once all files have been successfully uploaded, click **Done**.
-
-{tip}
-Media files can also be uploaded directly to Layouts/Playlists using the upload tool from a Library Search. Media uploaded to a Playlist have an additional option to set [Widget Expiry Dates](media_playlists.html#content-widget-expiry-dates).
-
-Media files that are uploaded and added directly to Layouts/Playlists are also saved by default to the CMS Media Library.
-{/tip}
-
-### Add Media via URL
-
-- Select the **Add Media (URL)** button:
-
-![Upload via URL](img/v4_media_library_upload_url.png)
-
-- Save to a Folder to inherit the View, Edit, Delete Share options that have been applied to the destination Folder for easy User/User Group access.
-- Provide the remote URL for the file.
-- Give your file a **Name** for easier identification in the CMS.
-
-{tip}
-If the Name field is left blank, the file will be named as per the original file name!
-{/tip}
-
-- Click to **Save**.
+  {tip}
+  Default thresholds and limits can be specified which are then considered in the event an [Image](media_module_image.html) should be resized when uploading an image for example. Further information can be found in **CMS Settings**.
+  {/tip}
 
 ## Row Menu
 
@@ -139,13 +104,18 @@ Use the check box **Update this Media in all Layouts it is assigned to** so that
 Edits will only be updated in Layouts/Playlists which you have access to edit!
 {/tip}
 
-### Replace Media
+### Replace File
 
-It may be necessary to upload a new revision of an existing file by using the **Replace** button at the bottom of the form.
+It may be necessary to upload a new revision of an existing file:
 
-- Upload a replacement file using the same steps as before to [Add Media (Upload).](media_library.html#content-add-media-upload)
-- Tick to **Update** the replacement file to all Layouts/Playlists it is currently assigned to.
-- Tick to **Delete** the old file version completely from the CMS.
+- Click **Select File** and choose the media file to replace the existing
+
+- Optionally select to:
+
+  - **Delete** the old file version completely from the CMS
+  -  **Update** the replacement file to all Layouts/Playlists it is currently assigned to.
+
+  
 
 ## Delete
 
@@ -159,8 +129,6 @@ The option to force a delete must be used with caution as deleting a file cannot
 [Retiring Content](media_library.html#content-retire-media) rather than deleting it will keep the media file in any existing Layouts/Playlists it has been assigned to, with any scheduled content unaffected. Media will not be available to add to any new Layouts/Playlists.
 {/tip}
 
-{feat}Purge List|v4{/feat}
-
 - Tick in the box to enable a hard push using XMDS to completely remove the file from a Players local storage.
 
 
@@ -172,23 +140,11 @@ This report is great to use to make final checks prior to tidying media files!
 
 This will show if the selected **media file** is directly assigned/scheduled to **Displays**. 
 
-![Library Usage Report](img/v4_media_library_usage_report.png)
-
 - Use the Layout tab to see what **Layouts** the media file is currently included in. 
 
 ### Schedule
 
 Image and Video Library media files can be directly Scheduled to a Display as full screen content from the row menu.
-
-- Click **Schedule**
-
-![Schedule Library Media](img/v4_media_library_schedule_fullscreen.png)
-
-- Set the **Duration** of the item to determine how long this media file should be shown each time it appears in the schedule. Use the duration,as set in the Media Library by leaving this field blank.
-- Optionally select a **Resolution** to use. If left blank a resolution that matches closest in size to the selected media file will be used.
-- An optional **Background Colour** can be set to fill any gaps if the media does not fill the entire screen.
-- **Save**
-- Complete the rest of the form fields to complete the new Schedule.
 
 ## Tidy Library
 
@@ -203,7 +159,7 @@ This might be particularly useful if the CMS is installed on a web server that h
 
 There are two places where the Library can be tidied:
 
-1. From **CMS Settings** - available to all Super Administrators only.
+1. From **CMS Settings**, **General** section - available to all Super Administrators only.
 2. From the **Library**  - for all Users when **Enable Library Tidy** is ticked.
 
 {nonwhite}
@@ -212,11 +168,9 @@ The Tidy Library function is turned off by default for **Xibo Cloud Hosting** cu
 {/cloud}
 {/nonwhite}
 
-Once enabled Users can click on a **Tidy Library** button located at the top of the Library page:
+Once enabled Users can click on a **Tidy Library** button located at the top of the Library page.
 
-![Tidy from Library](img/v4_media_library_tidylibrary.png)
-
- The form will show the number of files that will be deleted and how much space those files take up.
+The form will show the number of files that will be deleted and how much space those files take up.
 
 {tip}
 This will only delete files that are owned by the logged in User which are no longer in use on a Layout or Assigned to a Display Group/Display.

@@ -9,8 +9,6 @@ persona: "content manager"
 
 Display live streamed HLS content on Layouts and Playlists.
 
-{feat}HLS Stream|v4{/feat}
-
 ## Overview
 
 - A valid internet connection is required on the Player in order to function.

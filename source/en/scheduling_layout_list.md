@@ -15,7 +15,7 @@ Create a Campaign containing a list of ordered Layouts so that they play in a co
 
 ## How-to Video Layout List
 
-{video}4Gv1I8NDC9o|how_to_layout_list_campaign.png{/video}
+{video}D29fpVWYJ68|how_to_layout_list_campaign_5.png{/video}
 {/nonwhite}
 
 ## Creating a Layout List Campaign
@@ -46,8 +46,6 @@ On saving, the form will re-open with an additional Layouts tab:
 - Added Layouts will be shown at the top of the **Edit Campaign** form.
 
 Layouts can be re-ordered from here by drag and drop to ensure they play in the correct sequence.
-
-Use the `-` icon for an added Layout to remove from the Campaign.
 
 - Click to **Save**.
 

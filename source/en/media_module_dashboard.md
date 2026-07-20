@@ -17,8 +17,6 @@ The Dashboards Widget is used to display [Dashboards](media_dashboard_service.ht
 
 **Please note:** This commercial Widget is part of the **Xibo Dashboard Service** and requires an API for configuration as further explained [here](/pricing#dashboards)
 
-{feat}Dashboards|v4{/feat}
-
 ## Configuration
 
 - Select the dashboard service to match the dashboards that have been configured in the connector.
@@ -54,6 +52,8 @@ By default reports in **Power BI** render with a US Date format. To use an alter
 Example Error message with screengrab shown below:
 
 ![Example Error Message](img/v4_media_modules_dashboard_error.png)
+
+{/nonwhite}
 
 
 

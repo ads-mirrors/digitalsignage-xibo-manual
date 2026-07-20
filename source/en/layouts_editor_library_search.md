@@ -17,7 +17,7 @@ File based Media can be first uploaded to the **CMS Library** ahead of time, or 
 
 ## How-to Video Using Library Searches
 
-{video}pymUvJDp-lE|how_to_use_library_searches.png{/video}
+{video}pH3mtxZ7mOE|how_to_use_library_searches_5.png{/video}
 {/nonwhite}
 
 Media already saved to the Library, can be easily selected by using a **Library Search** function.

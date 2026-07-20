@@ -15,7 +15,7 @@ Tags are used throughout the CMS in order to easily organise and categorise item
 
 ## How-to Video Managing Tags
 
-{video}gHRMKiiXdRA|how_to_managing_tags.png{/video}
+{video}yH48zbttIi0|how_to_managing_tags_5.png{/video}
 {/nonwhite}
 
 Tags can be created by Users from various forms throughout the CMS, as well as created and managed by Administrators from the Tags page under the Administration section of the main CMS menu.
@@ -38,7 +38,7 @@ Users can also add associated Values to Tags using the **Tag Value** field in fo
 
 Administrators can view all **System Tags** from the Tag management page and view Usage reports using the row menu for each individual Tag.
 
-Use the **With Selected** option at the bottom of the grid to **Delete** Tags in bulk.
+Select multiple tags using the checkbox in the grid and delete in bulk.
 
 ## Further Reading
 

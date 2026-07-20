@@ -14,7 +14,7 @@ Set up recurring Events to repeat at specified intervals. **Repeating Events** i
 
 ## How-to Video Using Repeats
 
-{video}HvhGgF_RQNI|how_to_using_repeats.png{/video}
+{video}eZnCzsm0ESk|how_to_using_repeats_5.png{/video}
 {/nonwhite}
 
 ## How-to create repeats
@@ -32,14 +32,14 @@ Use **Until** to control when the repeated event should finish.
 Ensure the time selected here is after the final repetition of the defined Event so as to not cut the play back of content short!
 {/tip}
 
-**Recurring Events** can be removed from the Schedule in their entirety using the Grid view and selecting Delete from the row menu. All instances of the recurring event will be removed. 
+**Recurring Events** can be removed from the Schedule in their entirety by right clicking the event from the calendar view or from the grid view and using the row menu to select delete.
 
-Alternatively, remove only an instance of a recurring event:
+Alternatively, remove only an instance of a recurring event from the Calendar view:
 
-- Use the **Calendar** view to locate the Recurring Event by date. 
-- Click on the event to open the schedule form. The event instance details will be clearly shown at the bottom of the form.
+- Locate the Recurring Event by date
+- Right click the event and select to remove this instance only.
 
-- Click **Delete from Schedule** to remove only this instance from scheduling. All other instances will remain scheduled.
+All other instances will remain scheduled.
 
 {version}
 **NOTE:** Care should be taken if amendments are made to a recurring Schedule after deleting an individual Event instance. Previously deleted Event instances could be recreated when making edits to an existing recurring Schedule!

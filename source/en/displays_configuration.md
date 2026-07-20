@@ -15,7 +15,7 @@ Once Displays have been connected, they are configured and managed from the **Di
 
 ## How-to Video Display Configuration
 
-{video}DsYGiDgiigM|how_to_display_configuration.png{/video}
+{video}NUd9UUxJKt8|how_to_display_configuration_5.png{/video}
 {/nonwhite}
 
 In order to start showing content, **Displays** must be **Authorised** with the CMS. Check the Displays grid to make sure the right Displays are showing as **Authorised**, as a first step.
@@ -36,9 +36,7 @@ When creating your own Default Layouts, keep in mind that designs should be kept
 - Setting the **Latitude** and **Longitude** of the Display, will show its location on the map view.
 
 
-The **Displays** map can be viewed by clicking the icon next to the **Folders** toggle from the Displays grid:
-
-![Display Map Icon](img/display_configuration_map_view_icon.png)
+The **Displays** map can be viewed by clicking the icon at the top right of the grid.
 
 - Set **Timezones** to ensure that content is shown at the right time for your Display location.
 
