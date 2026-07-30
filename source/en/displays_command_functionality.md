@@ -23,17 +23,13 @@ Commands provide easy access to functionality for RS232, Android Intents and Phi
 
 ## Command Management
 
-Commands are created and managed from **Commands** under the **Displays** section of the main CMS menu:
-
-![Display Commands](img/v4_displays_commands.png)
+Commands are created and managed from **Commands** under the **Displays** section of the main CMS menu
 
 Use the row menu for a Command to Edit, Delete and set **Share** options.
 
 ### Add Command
 
-Click on the **Add Command** button and complete the relevant form fields:
-
-![add_command](img/v4_displays_commands_add_command.png)
+Click on the **Add Command** button and complete the relevant form fields
 
 Use the **Command** drop down menu to select from one of the following options to configure:
 

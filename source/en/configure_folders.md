@@ -19,14 +19,14 @@ Folders are managed from the Administration section of the main CMS menu where a
 
 ## How-to Video Managing Folders
 
-{video}kq0vR4FZuAM|how_to_managing_folders.png{/video}
+{video}dNqqg98QhPY|how_to_managing_folders_5.png{/video}
 {/nonwhite}
 
 ### Creating Folders
 
 Only administrators can create **Folders** under the **Root Folder**. 
 
-- Right click the **Root Folder** and select **Create** to add a new Folder to the tree.
+- Right click the **Root Folder** and select **New Folder** to add a new Folder to the tree.
 
 
 -  Further options are available from the context menu by right clicking a Folder.

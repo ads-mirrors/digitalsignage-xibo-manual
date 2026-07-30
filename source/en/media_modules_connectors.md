@@ -9,20 +9,17 @@ persona: "administrator"
 
 # Connectors Management
 
-Modules that rely on a third party service for data, [Stocks](media_module_stocks.html) for example, need further configuration with API keys etc.
+From the Connectors page under the Administration section of the main CMS menu, view all third party services which can be enabled and configured.
 
-Once the Module has been enabled and you have the required API key:
+Click Configure for a Connector to Enable/Disable and to provide configuration options.
 
-- Go to the **Applications** page under the **Administration** section of the main CMS menu.
-- Scroll down to the **Connectors** section of the page.
+{cloud}
+API keys are configured as part of the service for all modules that rely on a third party service.
+{/cloud}
 
-Here you can see all third party services which can be configured:
+{noncloud}
+You will need to create an account and obtain an API key for the third party service you wish to use and provide those details in the relevant Connector. 
+{/noncloud}![Configure Connectors](img/v4.5_media_modules_configure_connectors.png)
 
-![Connectors](img/v4_media_modules_connectors.png)
 
-- Click the **Configure** button of the Connector to configure:
-
-![Configure Connectors](img/v4_media_modules_configure_connectors.png)
-
-- Provide the **API key** you have been given and ensure that you tick the **Enabled** box to tell the Connector to start providing the service to the relevant Modules.
 

@@ -11,8 +11,6 @@ persona: "content manager"
 
 Add Audio files to play on your Layouts and Playlists from the [Library Search](layouts_editor_library_search.html). 
 
-{feat}Audio|v4{/feat}
-
 ## Overview
 
 -  Upload new audio files directly to Playlists/Layouts from the Library Search.

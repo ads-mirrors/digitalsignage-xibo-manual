@@ -14,8 +14,6 @@ Display traffic data configured with a Google Maps API key on Layouts and Playli
 **IMPORTANT:** This Module requires a Google API key which has associated usage charges. Please make sure you are aware of the usage charges before entering your key in this Module's configuration.
 {/version}
 
-{feat}Google Traffic Maps|v4{/feat}
-
 ## Installation
 
 The Google Traffic Module must be configured with a Google Maps API key before use. The "[get a key](https://developers.google.com/maps/documentation/javascript/get-api-key)" documentation describes the process and differences between the keys.

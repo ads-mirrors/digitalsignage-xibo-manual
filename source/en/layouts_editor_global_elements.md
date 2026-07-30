@@ -17,7 +17,7 @@ Global Elements give Users an easy way to add **Text**, **Dates and Times**, **L
 
 ## How-to Video Using Global Elements
 
-{video}MpuFyYbp0tw|how_to_use_global_elements.png{/video}
+{video}-HCFQGQFQbU|how_to_use_global_elements_5.png{/video}
 {/nonwhite}
 
 Global Elements give Users great flexibility, with precise positioning and customisable options its easy to create visually impactful designs. Use them on their own or add them to your designs to further enhance and complement other content.

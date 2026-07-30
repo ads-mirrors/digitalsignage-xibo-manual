@@ -7,18 +7,14 @@ persona: "content manager"
 
 # PDF
 
-Add PDF files to include on your Layouts and Playlists from the [Library Search](layouts_editor_using_library_search.html). 
-
-Using the 'other media' search, use the **Type** drop down to select **PDF**.
-
-{feat}PDF|v4{/feat}
+Add PDF files to include on your Layouts and Playlists.
 
 ## Overview
 
--  [Upload](media_library.html#content-add-media-upload) new files directly to Playlists/Layouts from the Library Search.
-- Files uploaded directly to Playlists and Layouts are automatically saved to the [Library](media_library.html) for re-use.
+-  Upload new files directly to Playlists/Layouts from the Library Search.
+- Files uploaded directly to Playlists and Layouts are automatically saved to the Library for re-use.
 - PDF files can be also be uploaded in advance to the Library.
-- Set [start and end times](media_playlists.html#content-widget-expiry-dates) for PDF files uploaded directly to a Playlist.
+- Set start and end times for PDF files uploaded directly to a Playlist.
 - Save PDF files to Folders on upload, to easily control access to Users.
 - Set a duration to apply to each page of the PDF.
 
@@ -27,4 +23,10 @@ Tick the **Set a duration** box on the **Advanced** tab. The duration (in second
 {/tip}
 
 ![PDF](img/v4_media_module_pdf.png)
+
+## Further Reading
+
+[Setting Start and End times in Playlists](media_playlists.html#content-widget-expiry-dates)
+
+[Using Library search](layouts_editor_using_library_search.html)
 

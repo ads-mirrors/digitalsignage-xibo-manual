@@ -16,7 +16,7 @@ Help US citizens to prepare for extreme weather events by showing weather foreca
 **NOTE:** Weather forecasts and warnings are for the United States, its territories and adjacent waters and ocean areas. If you would like to use this Widget, ask your Administrator to enable the **National Weather Service** from the **Modules** section.
 {/version}
 
-## Feature Overview
+## Overview
 
 -  **National Weather Service Connector** uses data from the provided NWS Atom URL feed. 
 - Can be used with the default **URL for the NWS Atom Feed** or a custom Atom Feed format URL can be provided.
@@ -31,19 +31,13 @@ By setting the **Criteria Type** to "Emergency Alert" and the **Category** to "M
 {/nonwhite}
 {/tip}
 
-## Player Feature Support
-
-{feat}National Weather Service|v4{/feat}
-
 ## Further Reading
 
-[Connectors Management](/media_modules_connectors.html)
+[Connectors Management](media_modules_connectors.html)
 
-[Data Widgets](/layouts_editor_data_widgets.html)
+[Data Widgets](layouts_editor_data_widgets.html)
 
-[Layout Editor](/layouts_editor.html)
+[Layout Editor](layouts_editor.html)
 
-{nonwhite}
-[Schedule Criteria](/developer/player-control/schedule-criteria.html)
-{/nonwhite}
+
 

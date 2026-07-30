@@ -20,7 +20,7 @@ Playlists can have content added by automatic assignment based on selected crite
 
 ## How-to Video Showing a Playlist
 
-{video}IHCaSsKwKq4|how_to_create_a_playlist.png{/video}
+{video}2yLj4C1-zhA|how_to_create_a_playlist_5.png{/video}
 {/nonwhite}
 
 ## Add Playlist
@@ -65,10 +65,6 @@ The CMS will now update a Schedule change and the Playlist will be shown on Disp
 [Use the Layout Editor to create your own content](layouts_editor.html) 
 
 ## FAQs
-
-***I don't see the wizard when scheduling a Playlist?***
-
-A wizard was introduced in v4.4 to simplify the scheduling process. Use the link to view the earlier flow: [Showing a Playlist](getting_started_showing_a_playlist_v4.html)
 
 ***Can I add Widgets to a Playlist?***
 

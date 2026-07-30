@@ -10,8 +10,6 @@ persona: "content manager"
 
 Select from an **Analogue**, **Flip** or a **Digital** style clock.
 
-{feat}Clock|v4{/feat}
-
 ## Overview
 
 - Show a traditional Analogue Clock face in a light or dark theme.

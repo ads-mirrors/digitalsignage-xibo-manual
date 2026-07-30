@@ -10,8 +10,6 @@ persona: "content manager"
 
 Use Shell Command to instruct the Display to execute a command outside of the [[PRODUCTNAME]] environment, using the operating system shell.  
 
-{feat}Shell Command|v4{/feat}
-
 {tip}
 Add the Shell Command Widget to Layouts to execute external commands, such as ‘volume up’ for a Layout with an Audio Widget that is set to play, and ‘volume down’ when the Layout finishes.
 {/tip}
@@ -43,7 +41,7 @@ In most cases, commands that are run from a Layout / Playlist tend to be backgro
 For commands that are executed on a specific date/time, such as  ‘reboots’, 'turn on/off' on opening/closing times for example, then please see the [Add Event](scheduling_events) in the Scheduling section and [Send Command](displays.html#content-send-command) in the Displays section.
 {/tip}
 
-#### Next...
+## Further Reading
 
 [Command Functionality](displays_command_functionality.html)
 

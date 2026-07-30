@@ -36,16 +36,9 @@ Streamline resources and save time by creating Playlists to hold multiple items 
 
 Playlists that are created independently to Layouts and do not require additional User access to Layouts or the Layout Editor in order to add or manage content on Playlists.  Any changes made to a Playlist will be updated in all Layouts/Schedules that already contain that Playlist.
 
-- Select **Playlists** under the **Library** section of the main CMS menu.
-
-
-- Click the **Add Playlist** button and complete the form fields:
-
-![Add Playlist](img/v4_media_playlists_add.png)
-
-
-
-- Give your Playlist a **Name** for easy identification in the CMS.
+1. Select **Playlists** under the **Library** section of the main CMS menu
+2. Click the **Add Playlist** button and complete the form fields
+3. Give your Playlist a **Name** for easy identification in the CMS
 
 There are two options for adding [Media](media_library) content to Playlists:
 
@@ -124,8 +117,6 @@ Did you know a 'global' Playlist can be scheduled to be shown on Displays full s
 
 Items added to a Playlist have an additional option of setting Start and End times.
 
-{feat}Widget Expiry Dates|v4{/feat}
-
 - Right click on an item in a Playlist to **Edit Expiry Dates** or set when uploading media directly to a Playlist.
 
 
@@ -197,7 +188,7 @@ Cycle based playback is not supported when adding Playlists to a global Playlist
 
 Saved Playlists can be viewed from **Playlists** under the **Library** section of the main CMS menu:
 
-![Playlist Grid](img/v4.1_media_playlists_grid.png)
+![Playlist Grid](img/v4.5_media_playlists_grid.png)
 
 Each Playlist has a row menu which is used to access a menu of actions/shortcuts, notable settings are listed below: 
 

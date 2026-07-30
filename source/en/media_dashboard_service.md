@@ -24,28 +24,20 @@ Once the Connector has been configured, add dashboards to display in Layouts usi
 
 From the CMS:
 
-- Click on **Applications** under the **Administration** section of the main menu.
-- Scroll down to the **Connectors** section of the page. 
-- Click the **Configure** button for the **Xibo** **Dashboard Service** connector:
+![Dashboard Connector](img/v4.5_media_dashboard_connector.png)
 
-![Dashboard Connector](img/v4_media_dashboard_connector.png)
-
-- Enter the API key you have been given (available in [My Account](/login)).
+1. Click on **Connectors** under the **Administration** section of the main menu
+2. Click the **Configure** button for the **Xibo** **Dashboard Service** connector
+3. Enter the API key you have been given (available in [My Account](/login))
 
 {tip}
 Customers on a Business or Enterprise Plan will have their API key pre-filled!
 {/tip}
 
-- Tick to **Enable** to start providing the dashboard services
-
-![Configure Connector](img/v4_media_dashboard_configure_connector.png)
-
-- Click to **Save.**
-
-- Click the **Configure** button again for the Xibo Dashboard service connector.
-- Using the **Credentials** section of the form, select the dashboard service(s) you wish to use:
-
-![Dashboard Credentials](img/v4_media_dashboard_credentials.png)
+1. Tick to **Enable** to start providing the dashboard services
+2. Click to **Save**
+3. Click the **Configure** button again for the Xibo Dashboard service connector
+4. Using the **Credentials** section of the form, select the dashboard service(s) you wish to use
 
 Enter the following credentials:
 

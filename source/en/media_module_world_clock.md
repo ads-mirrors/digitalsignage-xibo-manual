@@ -10,8 +10,6 @@ persona: "content manager"
 
 Select from Analogue, Time and Date or Text style clocks to show selected Timezones.
 
-{feat}World Clock|v4{/feat}
-
 ## Overview
 
 - Show multiple Timezones in your chosen World Clock style.

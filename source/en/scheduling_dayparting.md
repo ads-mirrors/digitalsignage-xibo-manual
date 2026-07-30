@@ -9,19 +9,12 @@ persona: "schedule manager"
 
 # Dayparting
 
-{tip}
-In broadcast programming, dayparting is the practice of dividing the broadcast day into several parts, in which a different type of radio or television program apropos for that time period is aired.
--- Wikipedia
-{/tip}
+Dayparting allows Displays to show relevant content based on the immediate needs of your audience allowing you to tailor content without manual intervention.
 
-[[PRODUCTNAME]] supports the creation of multiple Dayparts, which can include day of the week exceptions. This means that a single day can be split into as many **pre-defined** parts as necessary.
+[[PRODUCTNAME]] supports the creation of multiple Dayparts, to allow you to define distinct blocks of time (e.g. Breakfast, Lunch, Evening) which can include defined exceptions. This means that a single day can be split into as many **pre-defined** parts as necessary.
 {tip}
-A typical use case would be a hospitality User who has different content to display for Breakfast, Lunch and Dinner. Dayparting allows that User to create a Breakfast, Lunch and Dinner daypart, each of which starts and ends on a different day for selection to simplify day to day scheduling.
+A typical use case would be a hospitality User who has different content to display for Breakfast, Lunch and Dinner. Dayparting allows that User to create a Breakfast, Lunch and Dinner daypart, each of which starts and ends on a different day, simplifying day to day scheduling.
 {/tip}
-
-{version}
-**Dayparts** can also be created to set a [Displays Operating Hours](displays_settings.html#content-operating-hours).
-{/version}
 
 ## Add Daypart
 
@@ -39,11 +32,11 @@ On Saving, the Daypart will be available for selection in the **Dayparting** dro
 {tip}
 The below Daypart form shows an example Breakfast Daypart:
 
-![Exanple Breakfast Daypart](img/v4_scheduling_daypart_form.png)
+![Exanple Breakfast Daypart](img/v4.5_scheduling_daypart_form.png)
 
 Saturday and Sunday have been configured as exceptions so that breakfast starts and ends at different times on those days:
 
-![Daypart form exceptions tab](img/v4_scheduling_daypart_form_exceptions.png)
+![Daypart form exceptions tab](img/v4.5_scheduling_daypart_form_exceptions.png)
 
 On Scheduling, the **Breakfast** Daypart will appear in the drop-down for selection. On selecting, the from/to date time selectors will change to date only selectors and the time will be taken from the Daypart configuration - according to the day of the week the Event occurs on.
 {/tip}
@@ -59,3 +52,7 @@ Updating the start/end times or exceptions for a Daypart will cause existing fut
 
 Existing recurring Schedules, set to recur beyond the current time, will have new Schedules created to reflect the updated information.
 {/tip}
+
+## Further Reading
+
+ [Creating Display Operating Hours](displays_settings.html#content-operating-hours).

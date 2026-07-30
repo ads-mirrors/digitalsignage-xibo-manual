@@ -11,8 +11,6 @@ persona: "content manager"
 
 Embed HTML and JavaScript to be displayed on Layouts and Playlists. 
 
-{feat}Embedded HTML|v4{/feat}
-
 ## Overview
 
 - Make custom enhancements without modifying the core application.
@@ -23,15 +21,6 @@ Embed HTML and JavaScript to be displayed on Layouts and Playlists.
 - Enter text or HTML to embed.
 - Use a CSS style sheet to control the visual styling.
 - Include `script` tags to embed content in the HEAD of the document. (Please see section below.)
-
-{version}
-**NOTE:** 
-
-- Transparent background and Scale is available on Windows from v2 R253.
-
-- Preloading off screen is currently only available from Android v2 R207.
-
-  {/version}
 
 ### HEAD content to Embed
 

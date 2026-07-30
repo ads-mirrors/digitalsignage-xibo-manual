@@ -10,8 +10,6 @@ persona: "content manager, administrator"
 
 # Transition Management
 
-{feat}Transitions|v4{/feat}
-
 {version}
 
 **Note:** Transitions are not supported by Tizen Players for the following Widgets:
@@ -24,7 +22,7 @@ persona: "content manager, administrator"
 
 Transitions are managed from the **Transitions** page under the **Administration** section of the main CMS menu. Configure which Transitions should be available to Users for assignment to Media items:
 
-![Transitions Grid](img/v4_tour_transitions_grid.png)
+![Transitions Grid](img/v4.5_configuration_transitions_grid.png)
 
 - **Fade In** - Increase Opacity from 0 to 100.
 - **Fade Out** - Decrease Opacity from 100 to 0.
