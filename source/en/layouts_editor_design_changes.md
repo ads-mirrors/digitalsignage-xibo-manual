@@ -15,7 +15,7 @@ From time to time, **Layouts** may need design changes/updates to keep content f
 
 ## How-to Video Design Changes
 
-{video}4VsVgJfgDmw|how_to_design_changes_5.png{/video}
+{video}iS3Ig1taDkQ|how_to_design_changes_5.png{/video}
 {/nonwhite}
 
 Layouts that are in a **Draft** status are simply edited by using the row menu and selecting **Design** to open the Layout Editor.
