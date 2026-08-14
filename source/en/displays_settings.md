@@ -8,9 +8,11 @@ keywords: "display profiles, licensing, orientations, apply settings, display se
 
 # Display Settings 
 
-Each Display has settings which can be configured individually. Settings can vary depending on the platform/media player type, using **Display Setting Profiles** you can easily apply different settings to **Displays** of the same platform or type.
+Display Setting Profiles offer a powerful way to centrally configure Player settings from the CMS.
 
-Once connected to the CMS, each **Display** is assigned a default **Display Profile** to apply settings to Displays of the corresponding type.
+Settings can vary depending on the platform/media player type, using **Display Setting Profiles** you can easily apply different settings to **Displays** of the same platform or type.
+
+When a Player connects to the CMS, it will receive any default assigned 'Profile' created and reconfigure to those settings automatically.
 
 Profiles can be customised or new ones added to suit Display requirements. For ease use the row menu and **Copy** an existing **Profile** to quickly create new Profiles with the required settings.
 
